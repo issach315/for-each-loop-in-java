@@ -18,6 +18,8 @@ public class ForEach
         
     }
     
+    // for each loop is used for iterating the array and collections
+    
    /* 
    
    for(dataType variableName : array)
