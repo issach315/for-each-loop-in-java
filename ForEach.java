@@ -6,6 +6,8 @@ public class ForEach
    public static void main(String[] args)
     
    {
+    
+    // for each loop is used to iterarte over an array 
 
     int x[] = {1,2,3,4,5,6,7,8,9};
 
